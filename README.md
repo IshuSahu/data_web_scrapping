@@ -24,7 +24,7 @@ productCrawler/
 ### 1️⃣ Install dependencies
 ```bash
 npm install
-npx playwright install
+npm install playwright
 ```
 
 ### 2️⃣ Prepare input data
